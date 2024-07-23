@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Oleg :raising_hand:
+My name is Oleg :man:
 -
 I learn Java at [Job4j](https://job4j.ru/) :computer:
 
